@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=hiyajain22&label=Profile%20views&color=0e75b6&style=flat" alt="hiyajain22" />
 </p>
 
-- 🔭 I'm currently working as a **Data Engineer**, building Databricks Medallion architecture pipelines for life sciences
+- 🔭 I'm currently working as a **Data Engineer**, building ETL pipelines 
 - 🧠 I work with **LLMs, RAG systems, PySpark, and GenAI** to solve real-world data problems
 - 🏆 **Databricks Certified Data Engineer Associate**
 - 📫 Reach me at **hjain2209@gmail.com**
