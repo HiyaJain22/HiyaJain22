@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hiya Jain</h1>
-<h3 align="center">Data Engineer & AI/ML Enthusiast | Building intelligent data pipelines at ZS Associates</h3>
+<h3 align="center">Data Engineer & AI/ML Enthusiast | Building intelligent data pipelines</h3>
 
 <img align="right" alt="coding" width="380" src="https://img.freepik.com/premium-vector/woman-programmer-software-web-development-computer-girl-work-script-coding-programming_352905-203.jpg?w=2000">
 
